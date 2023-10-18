@@ -1,0 +1,2 @@
+# pokersolverdeno
+solves poker hands
